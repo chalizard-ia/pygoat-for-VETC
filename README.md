@@ -13,10 +13,7 @@ Table of Contents
 * [pygoat](#pygoat)
    * [Installation](#installation)
       * [From Sources](#from-sources)
-      * [Docker Container](#docker-container)
-      * [Installation Video](#installation-video)
    * [Uninstallation](#uninstallation)
-   * [Solutions](/Solutions/solution.md)
    * [For Developers](/docs/dev_guide.md)
 
 ## Installation
